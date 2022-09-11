@@ -1,0 +1,19 @@
+list of materials:
+	-mos sensor;
+		-TGS 2600    x1
+		-TGS 2602    x1
+		-TGS 2620    x1
+		-MQ 135      x1
+		-TGS 813     x1
+	-bulk converter    x2
+	-Modul charger	 x1
+	-Batteray 18650    x2
+	-push button       x2
+	-touch sensor      x2
+	-Arduino Mega 2560 x1
+	-lcd 1602		 x2
+      -led			 x2
+	-relay		 x1
+	-fan			 x1
+	-akrilic sheet	 x?	 
+	-cable       	 x?
