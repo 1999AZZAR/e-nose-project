@@ -1,11 +1,24 @@
 # e-nose (electronic nose)
-## devinition
-An electronic nose is an electronic sensing device intended to detect odors or flavors. The expression "electronic sensing" refers to the capability of reproducing human senses using sensor arrays and pattern recognition systems.
 
-## abstrac
-Electronic/artificial noses are being developed as frameworks for the mechanized discovery and classification of odors, vapors, and gasses. An electronic nose is by and large composed of a chemical detecting framework (e.g., sensor cluster or spectrometer) and a design acknowledgment framework (e.g., fake neural arrange). We are creating electronic noses for the mechanized recognizable proof of unstable chemicals for natural and therapeutic applications. In this paper, we briefly depict an electronic nose, appear a few comes about from a model electronic nose, and examine applications of electronic noses within the natural, therapeutic, and nourishment businesses.
+## Definition
+An electronic nose, also known as an "artificial nose" or "e-nose", is a device that uses sensor arrays and pattern recognition systems to detect and classify odors or flavors. It is designed to mimic the human sense of smell by reproducing the ability to distinguish between different odors.
 
-## introduction
-The two fundamental components of an electronic nose are the detecting framework and the computerized design acknowledgment framework. The detecting framework can be an cluster of a few distinctive detecting components (e.g., chemical sensors), where each component measures a distinctive property of the detected chemical, or it can be a single detecting gadget (e.g., spectrometer) that produces an cluster of estimations for each chemical, or it can be a combination.
+## Abstract
+- Electronic noses are being developed as frameworks for the automated discovery and classification of odors, vapors, and gasses. 
+- An electronic nose is composed of a chemical sensing framework (e.g., sensor cluster or spectrometer) and a pattern recognition framework (e.g., artificial neural network). The chemical sensing framework detects the chemical compounds in the air, while the pattern recognition framework analyzes the data and identifies the odor.
+- We are creating electronic noses for various applications such as environmental monitoring, medical diagnosis, and food quality control.
 
-Each chemical vapor displayed to the sensor cluster produces a signature or design characteristic of the vapor. By displaying numerous distinctive chemicals to the sensor cluster, a database of marks is built up. This database of labeled marks is utilized to prepare the design acknowledgment framework. The objective of this preparing prepare is to design the acknowledgment framework to create one of a kind classifications of each chemical so that an computerized distinguishing proof can be implemented.The amount and complexity of the information collected by sensors cluster can make customary chemical investigation of information in an robotized mold difficult.One approach to chemical vapor recognizable proof is to construct an cluster of sensors, where eachsensor within the array is outlined to reply to a particular chemical.With this approach, the number of interesting sensors must be at slightest as incredible as the number of chemicals being checked. It is both costly and troublesome to construct profoundly specific chemical sensors.
+## Introduction
+1. The two main components of an electronic nose are:
+   - the chemical sensing framework: This component can be made up of multiple different sensing components (e.g., chemical sensors), a single sensing device (e.g., spectrometer), or a combination of both. The chemical sensing framework detects the chemical compounds in the air and produces an output signal.
+   - the pattern recognition framework: This component analyzes the output signal from the chemical sensing framework and identifies the odor. It can be a software algorithm or a neural network.
+2. When a chemical vapor is presented to the sensor array, it produces a unique output signal that is characteristic of that chemical. By presenting multiple different chemicals to the sensor array, a database of patterns is established. 
+3. This database of labeled patterns is used to train the pattern recognition framework. 
+4. The objective of this training process is to develop a unique classification of each chemical so that an automated identification can be implemented.
+5. The amount and complexity of the data collected by the sensor array can make traditional chemical analysis of the data in an automated manner difficult. One approach to chemical vapor identification is to construct an array of sensors, where each sensor within the array is designed to respond to a specific chemical. With this approach, the number of unique sensors must be at least as great as the number of chemicals being detected. However, it can be both costly and difficult to construct highly specific chemical sensors.
+6. The electronic nose can be used in various fields such as environmental monitoring, medical diagnosis, and food quality control.
+   - In environmental monitoring, electronic noses can be used to detect and classify volatile organic compounds (VOCs) in the air. These VOCs can be emitted from industrial processes, vehicle exhausts, and other sources and can have negative effects on human health and the environment.
+   - In medical diagnosis, electronic noses can be used to detect and classify odors from breath, skin, or other bodily fluids. These odors can be used to diagnose diseases such as lung cancer, cystic fibrosis, and diabetes.
+   - In food quality control, electronic noses can be used to detect and classify odors from food products. These odors can be used to determine the freshness, quality, and authenticity of the food.
+
+Overall, electronic noses have the potential to revolutionize the way we detect and classify odors in various fields.
